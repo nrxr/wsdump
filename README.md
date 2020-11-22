@@ -17,3 +17,7 @@ server « This is a message to echo.websocket.org
 ```console
 ❯ go install github.com/nrxr/wsdump
 ```
+
+## Author and License
+
+Copyright 2020, nrxr `<nrxr@disroot.org>`. Released under the MIT license terms.
